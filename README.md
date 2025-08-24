@@ -1,4 +1,15 @@
 # PADI.jl
+
+<hr>
+
+**_Dépôt labelisé dans le cadre du [Label Reproductible du GRESTI'25](https://gretsi.fr/colloque2025/recherche-reproductible/)_**
+
+| Label décerné | Auteur | Rapporteur | Éléments reproduits | Liens |
+|:-------------:|:------:|:----------:|:-------------------:|:------|
+| ![](label_argent.png) | Vincent TARDIEUX<br>[@SpottedBush](https://github.com/SpottedBush) | Patrick BARD<br>[@pbard7](https://github.com/pbard7) |  Les colonnes RJ, RD et RS des figures 2 et 3. | 📌&nbsp;[Dépôt&nbsp;original](https://github.com/SpottedBush/PADI)<br>⚙️&nbsp;[Issue](https://github.com/GRETSI-2025/Label-Reproductible/issues/7)<br>📝&nbsp;[Rapport](https://github.com/akrah/test/tree/main/rapports/Rapport_issue_07) |
+
+<hr>
+
 **PADI** (Reconstruction of High-contrAst Polarized SOurces and Deconvolution for cIrcumstellar Environments)
 
 ## Requirements
